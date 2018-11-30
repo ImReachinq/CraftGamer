@@ -1,2 +1,2 @@
 # CraftGamer
-Craftgamer.ga:29000
+Hello everyone!
